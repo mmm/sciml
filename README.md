@@ -1,8 +1,28 @@
-% Scientific ML/AI Study Group
-% 2020-01
+# Scientific ML/AI
 
-Help our customers solve scientific problems/workloads on GCP.
+This is an open study group to level-set on various approaches to leveraging
+machine learning tools and techniques when solving scientific problems.
 
+
+
+## What do you mean by Study Group?
+
+When Quantum Computing first became a thing we gathered a multidisciplinary
+group at UT Austin... folks from the CS, Math, and Physics departments met
+weekly and we'd teach the CS folks quantum mechanics and learn about
+algorithmic complexity and coding theory from them in return.  Following the
+natural order of things, the math crew would heckle from the sidelines trying
+to clean up details on both sides.
+
+I'd like to reproduce something similar here.  We'll keep it to a reading group
+at first, but I expect we'll work this into open-source course material going
+forward.
+
+There's an outline for a core curriculum below as well as an arbitrarily
+ordered reading list.  The idea is we'll take turns co-presenting from the
+reading list as we fill gaps in the core material on an individual basis.
+Pretty much everything in the outline below would be considered "background"
+for someone in the group and brand new for another... that's expected.
 
 ---
 
@@ -10,16 +30,9 @@ Help our customers solve scientific problems/workloads on GCP.
 
 Potential learners:
 
-- Customers: know the science, new to deep learning
+- Researchers: know the science, new to deep learning
+- Data Scientists: know the ML, new to the science
 - Undergrads: new to both
-
-Specifically:
-
-- STC SA Scale team
-- some OCTO folks?
-- MIDS, CU, or open course?
-  (way more work... but perhaps at least outline what this would look like?)
-
 
 ---
 
@@ -31,7 +44,7 @@ Specifically:
 
 - Can I use physics to cut down the training time and/or data for my AI models?
 
-- Can I use deep learning to imrpove the efficitency and time execution for
+- Can I use deep learning to improve the efficitency and time execution for
   batch processing workloads?
 
 - Can I use a GPU/TPU to run my {thermal, signal prop, weather, etc} sims?
@@ -48,7 +61,7 @@ Specifically:
 - Are there off-the-shelf models I can share or use?  E.g., VNN19.  AI Hub for
   custom/trained models?
 
-- Who's actually doing any of this?  CERN, Fermilab, DoE(?)
+- Who's actually doing any of this?  CERN, Fermilab, etc?
 
 - Where can I find good examples?
 
