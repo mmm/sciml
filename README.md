@@ -94,6 +94,9 @@ walk through fills in some of these blanks.
 - motivation from SGD etc in ML
 - we're implicitly assuming enough familiarity with linear algebra
 
+### Papers
+
+- [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/pdf/1502.05767.pdf)
 
 ## DiffEq
 
@@ -135,6 +138,13 @@ walk through fills in some of these blanks.
 - resnets to ODEs
 - maybe applications to time-series data?  maybe applications to
   non-time-series data?
+
+### Papers
+
+- [Physics-Informed Neural Networks for Power Systems](https://arxiv.org/pdf/1911.03737.pdf)
+- [Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations](https://arxiv.org/pdf/1711.10561.pdf)
+- [Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations](https://arxiv.org/pdf/1711.10566.pdf)
+
 
 ## Modeling and Simulation
 
