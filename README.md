@@ -89,14 +89,18 @@ walk through fills in some of these blanks.
 
 - autodiff
 - src-to-src -vs- runtime
-- differentiable programming
 - what do languages like julia and swift bring to the picture?
 - motivation from SGD etc in ML
 - we're implicitly assuming enough familiarity with linear algebra
 
+out:
+
+- differentiable programming
+
 ### Papers
 
 - [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/pdf/1502.05767.pdf)
+  and my [slides](http://archive.markmims.com/box/talks/2019-09-autodiff/)
 
 ## DiffEq
 
@@ -293,3 +297,21 @@ here's a list of possible dimensions we can use to evaluate papers:
 He also includes this list of
 [paywalled papers](https://www.cs.colorado.edu/~paco3637/sciml-refs.html)
 from Spring2019.
+
+---
+
+## Random Links
+
+- some motivation from our fearless leader
+
+    https://arxiv.org/pdf/1911.05289.pdf
+
+- a seismic example
+
+    https://arxiv.org/pdf/1911.06932.pdf
+
+- Learning Particle Physics by Example: Location-Aware Generative Adversarial
+  Networks for Physics Synthesis
+
+    https://arxiv.org/pdf/1701.05927.pdf
+
