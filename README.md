@@ -134,6 +134,11 @@ out:
   - style transfer
   - plane-or-not
 
+### Papers
+
+- [Graph NNs](https://arxiv.org/pdf/1806.01261.pdf)
+
+
 
 ## Neural DiffEqs
 
